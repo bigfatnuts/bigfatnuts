@@ -2,7 +2,7 @@
 - 👀 I’m interested in cyber security and ethical hacking
 - 🌱 I’m currently learning C and ethical hacking
 - 💞️ I’m looking to collaborate on C and ethical hacking
-- 📫 How to reach me - Gmail: lalithwilliams77@gmail.com
+- 📫 How to reach me - Gmail: ...
 
 <!---
 bigfatnuts/bigfatnuts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
